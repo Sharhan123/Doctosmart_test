@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.banner{
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/006/828/785/small_2x/paper-art-shopping-online-on-smartphone-and-new-buy-sale-promotion-pink-backgroud-for-banner-market-ecommerce-women-concept-free-vector.jpg');
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
